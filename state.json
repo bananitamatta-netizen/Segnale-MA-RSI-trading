@@ -1,5 +1,5 @@
 {
-  "EURUSD": "ASPETTA",
-  "GBPUSD": "SELL",
+  "EURUSD": "SELL",
+  "GBPUSD": "ASPETTA",
   "ORO (XAUUSD)": "ASPETTA"
 }
